@@ -1,0 +1,7 @@
+{
+  "name": "Hello World Example",
+  "provider": "Coresystems Rocy",
+  "description": "Sample extension to print static data to WFM Application",
+  "version": "1.0.0",
+  "icon": "hello-world-icon.jpg"
+}
